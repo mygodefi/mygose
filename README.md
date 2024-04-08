@@ -1,2 +1,2 @@
-# mygose
+# MyGoSE
 DAS
